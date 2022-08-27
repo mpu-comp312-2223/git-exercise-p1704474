@@ -1,0 +1,16 @@
+** Add a title here **
+
+Git is software for tracking changes in any set of files,
+usually used for coordinating work among programmers collaboratively
+developing source code during software development. Its goals include
+speed, data integrity, and support for distributed, non-linear workflows.
+
+Git was originally authored by Linus Torvalds in 2005 for development of
+the Linux kernel. As with most other distributed version control systems, 
+and unlike most client–server systems, every Git directory on every computer
+is a full-fledged repository with complete history and full
+version-tracking abilities, independent of network access or a central
+server. (Excerpted from Wikipedia)
+
+** Type your name here **
+** Add a date here **
