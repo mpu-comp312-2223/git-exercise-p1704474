@@ -2,7 +2,7 @@
 // Thursday `dow === 4`. The output should include 
 // module code, start and end time, and room.
 // You should not hard code the indices of lectures.
-//P1902091_simon
+//P1704474_Thomas
 
 const timetab = {
     acadYear: "2021/22",
