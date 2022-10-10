@@ -15,7 +15,7 @@
 // 5. Sort the list in descending order of exam mark
 // 6. Show the student record with the highest exam mark
 // 7. Calculate the average test mark
-//P190201_simon
+//P1704474_Thomas
 
 let comp312 = [
     { name: 'Peter', test: 80, exam: 70 },
